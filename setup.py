@@ -27,3 +27,4 @@ author_email='akashgupta3075268@gmail.com',
 packages=find_packages(),
 install_requires = get_requirements('requirements.txt')
 )
+
